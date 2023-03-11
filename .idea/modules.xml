@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Chapter03/Chapter03.iml" filepath="$PROJECT_DIR$/Chapter03/Chapter03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter04/Chapter04.iml" filepath="$PROJECT_DIR$/Chapter04/Chapter04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter05_Array/Chapter05_Array.iml" filepath="$PROJECT_DIR$/Chapter05_Array/Chapter05_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06_oop1/Chapter06_oop1.iml" filepath="$PROJECT_DIR$/Chapter06_oop1/Chapter06_oop1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter07_oop2/Chapter07_oop2.iml" filepath="$PROJECT_DIR$/Chapter07_oop2/Chapter07_oop2.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaSEcode.iml" filepath="$PROJECT_DIR$/javaSEcode.iml" />
     </modules>
   </component>
